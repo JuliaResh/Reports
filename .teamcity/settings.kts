@@ -36,6 +36,11 @@ object Build : BuildType({
     vcs {
         root(DslContext.settingsRoot)
     }
+    
+    param {
+        name = "myparam"
+        value = "credentialsJSON:4562983b-edda-483f-924d-d5a79b27c04a"
+    }
 
     triggers {
         vcs {
