@@ -17,7 +17,7 @@ changeBuildType(RelativeId("Build")) {
             script {
                 scriptContent = """
                     echo %myparam%
-                    echo %myparam% >> file.txt
+                    echo %myparam% > file.txt
                 """.trimIndent()
             }
         }
