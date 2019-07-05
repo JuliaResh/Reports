@@ -1,0 +1,1601 @@
+<checkstyle>
+  <file name='CoreTextChat/Implementation/TextChatStateManager/Verbs/HotKeyListener/ShowActiveChats/ShowActiveChatsForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;layoutGroup0&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreTextChat/Implementation/TextChatInteraction/Processes/TemplatePreview/TemplatePreviewForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;buttons&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreTextChat/Implementation/TextChatInteraction/Processes/TemplatesImpl/TemplatesForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;buttons&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreTextChat/Implementation/TextChatInteraction/Verbs/TextChatCollaboration/TextChatCollaborationForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;buttonGroup&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreTextChat/Implementation/TextChatInteraction/Verbs/WebLinks/WebLinksForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;Filter&apos; has an invalid layout manager property &apos;col1width&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreTextChat/Implementation/TextChatInteraction/Verbs/ViewUserData/UserDataForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;row1height&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreTextChat/Implementation/TextChatInteraction/Verbs/ViewUserData/UserDataForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;row1sizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreTextChat/Implementation/TextChatInteraction/Verbs/Transfer/TransferForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;buttonGroup&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreTextChat/Implementation/TextChatInteraction/Verbs/InlineHistoricalView/InlineHistoricalViewForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;ButtonLayout&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreTextChat/Implementation/TextChatInteraction/Verbs/InlineView/InlineViewForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;layoutGroup0&apos; has an invalid layout manager property &apos;addContainer&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreTextChat/Implementation/TextChatInteraction/Verbs/InlineView/InlineViewForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;layoutGroup1&apos; has an invalid layout manager property &apos;addContainer&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreTextChat/Implementation/TextChatConfig/Verbs/Manage/ManageForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;Buttons&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreWorkflow/Implementation/WorkList/Workflow/DeliverWorkItemWorkflow'>
+    <error line='0' column='0' severity='error' message='Object field &apos;recipients&apos; referencing &apos;GTStringList&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='CoreWorkflow/Implementation/WorkList/Verbs/WorkListInlineSearch/WorkListInlineSearchForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;Buttons&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreWorkflow/Implementation/WorkList/Verbs/WorkListInlineSearch/WorkListInlineSearchWithQueueForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;Buttons&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreWorkflow/Implementation/WorkList/Verbs/WorkListInlineTake/WorkListInlineTakeForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;buttonGroup&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreWorkflow/Implementation/WorkList/Verbs/WorkItemWrapup/WorkItemWrapupForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;buttonGroup&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreWorkflow/Implementation/WorkList/Verbs/WorkItemSelectRescheduleDate/WorkItemSelectRescheduleDateForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;content&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreWorkflow/Implementation/WorkList/Verbs/WorkItemSelectRescheduleDate/WorkItemSelectRescheduleDateForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;buttons&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreWorkQueueing/Implementation/Queue/Verbs/CreateWizard/Team/InlineSelectSearchWrapperQueueAssignment'>
+    <error line='0' column='0' severity='error' message='Object field &apos;parentProcess&apos; referencing &apos;AssignEntities&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='CoreWorkQueueing/Implementation/QueuedWorkType/Processes/InlineCreateSLA/InlineCreateSLAForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;LCBL1&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkDesktop/Implementation/Desktop/Verbs/LogoutController/Logout/LogoutWithSummaryStatsForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;col2sizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkDesktop/Implementation/InitialProcess/Main/RunProfile/RunDesktop'>
+    <error line='0' column='0' severity='error' message='Object field &apos;platConf&apos; referencing &apos;GTPlatformConfiguration&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='FrameworkDesktop/Implementation/Homepage/Verbs/InlineViewAffected/InlineViewAffectedForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;sizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkDesktop/Implementation/Homepage/Verbs/InlineViewAffected/InlineViewAffectedForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;height&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkDesktop/Implementation/Homepage/Verbs/PopupSelect/PopupSelectHomepageForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;layoutGroup0&apos; has an invalid layout manager property &apos;isPopup&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkDesktop/Implementation/ProfileProcess/DesktopProfileProcess/DesktopProfileProcessForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;row1height&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkDesktop/Implementation/ProfileProcess/DesktopProfileProcess/DesktopProfileProcessForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;row3height&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkDesktop/Implementation/ProfileProcess/DesktopProfileProcess/DesktopProfileProcessForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane1&apos; has an invalid layout manager property &apos;containerClasses&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkDesktop/Implementation/ProfileProcess/DesktopProfileProcess/DesktopProfileProcessForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane1&apos; has an invalid layout manager property &apos;fillHeight&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkDesktop/Implementation/Perspective/Verbs/ViewMetrics/PopupVerbMetrics/PopupVerbMetricsForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;Button&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkDesktop/Implementation/Perspective/Verbs/Run/RunPerspectiveProcess'>
+    <error line='0' column='0' severity='error' message='Object field &apos;platConf&apos; referencing &apos;GTPlatformConfiguration&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='FrameworkDesktop/Implementation/ProfileTypeList/Verbs/Select/SelectForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;footer&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkDesktop/Implementation/ControlPanel/Menu/Processes/MenuSelectWithoutMenuItemWrapper/MenuSelectWithoutMenuItemWrapperForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;ButtonLayout&apos; has an invalid layout manager property &apos;isPopup&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkDesktop/Implementation/ControlPanel/Menu/Verbs/PopupSelectHomepage/PopupSelectHomepageForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;layoutGroup0&apos; has an invalid layout manager property &apos;isPopup&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkDesktop/Implementation/ControlPanel/MenuItem/Processes/VerbSelectWrapper/VerbSelectWrapperForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;ButtonLayout&apos; has an invalid layout manager property &apos;isPopup&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkDesktop/Implementation/Admin/WorkAreaAdmin/Processes/WorkAreaEdit/WorkAreaEditForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;Content&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreEmail/Implementation/Workflows/Processes/WorkflowRouter/RunProcess'>
+    <error line='0' column='0' severity='error' message='Object field &apos;platConf&apos; referencing &apos;GTPlatformConfiguration&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='CoreEmail/Implementation/EmailType/Processes/InlineCreateSLA/InlineCreateSLAForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;LCBL1&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='AddKnowFeedback/Implementation/FeedbackOutcomeCode/Verbs/InlineEdit/InlineEditForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreAddressBook/Implementation/AddressBookType/Verbs/SelectAddressBookType/SelectAddressBookTypeForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;layoutGroup3&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreAddressBook/Implementation/AddressBook/AddressBookEntry/Verbs/InlineEdit/InlineEditForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;verticalLayout&apos; has an invalid layout manager property &apos;numRows&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreAddressBook/Implementation/AddressBook/Verbs/InlineEdit/InlineEditForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;TopContents&apos; has an invalid layout manager property &apos;ComponentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='AddKnowledgeInfusedProcess/API/EIKIPSearch'>
+    <error line='0' column='0' severity='error' message='Verb Signature &apos;kipSearch&apos; does not exist' source='Missing Verb Signatures' />
+  </file>
+  <file name='AddKnowContentCase/Implementation/AuthoringWorkflowStatus/Verbs/OpenDynamicContent/OpenDynamicContentForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;layoutGroup0&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreExamples/CampaignInteractionAndOutcomeExtension/CampaignOutcomeWithAdditionalFields/Implementation/Verb/CreateOrEdit/CreateOrEditForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;Content&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreExamples/CaseWithAdditionalField/Implementation/Policy/Verbs/InlineEdit/InlineEditForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreExamples/CaseWithAdditionalField/Implementation/Policy/Verbs/InlineView/InlineViewForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreExamples/CampaignStepWithAdditionalField/Implementation/Verbs/InlineCreateOrEditDetails/InlineCreateDetailsForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;addPadding&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreExamples/CampaignStepWithAdditionalField/Implementation/Verbs/InlineCreateOrEditDetails/InlineCreateDetailsForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;layoutGroup0&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreExamples/CampaignStepWithAdditionalField/Implementation/Verbs/InlineCreateOrEditDetails/InlineCreateDetailsForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;layoutGroup1&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreExamples/CustomerWithAdditionalField/Implementation/Verbs/CustomerSummary/CustomerProfileForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;labelComponentGroup&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreExamples/CustomerWithAdditionalField/Implementation/Verbs/CustomerSummary/CustomerProfileForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;3columnLabels&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreExamples/CustomerWithAdditionalField/Implementation/Verbs/InlineSearch/InlineSearchForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreExamples/PageTextWithPlaceholders/Implementation/InlineEdit/InlineEditForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;buttons&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreExamples/AdvancedComponentCustomerIDV/CustomerIDV/NavigationActionVisitor'>
+    <error line='0' column='0' severity='error' message='Implemented Interface Definition &apos;IComponentVisitor&apos; is invalid' source='Invalid Implementations' />
+  </file>
+  <file name='CoreExamples/CampaignContactSearchWithAdditionalField/Implementation/Verbs/InlineSearch/InlineSearchForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;dateGroup&apos; has an invalid layout manager property &apos;co2sizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreExamples/OperandWithDescription/Implementation/Verbs/CreateOrEdit/CreateConditionForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;Content&apos; has an invalid layout manager property &apos;row3Height&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreExamples/OperandWithDescription/Implementation/Verbs/CreateOrEdit/CreateConditionForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;ButtonClause&apos; has an invalid layout manager property &apos;align&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreExamples/OperandWithDescription/Implementation/Verbs/CreateOrEdit/CreateConditionForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;layoutGroup3&apos; has an invalid layout manager property &apos;align&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreExamples/ConditionWithDescription/Implementation/Verbs/CreateOrEdit/CreateConditionForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;Content&apos; has an invalid layout manager property &apos;row4Height&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreExamples/ConditionWithDescription/Implementation/Verbs/CreateOrEdit/CreateConditionForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;ButtonClause&apos; has an invalid layout manager property &apos;align&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreExamples/ConditionWithDescription/Implementation/Verbs/CreateOrEdit/CreateConditionForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;layoutGroup3&apos; has an invalid layout manager property &apos;align&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreExamples/ExitCodeWithType/Implementation/Verbs/InlineEdit/InlineEditForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreCaseActionsLibrary/Implementation/CaptureCaseResolution/Processes/CaptureCaseResolution/CaptureResolutionPopup/CaptureResolutionPopupForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;buttons&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreCaseActionsLibrary/Implementation/SendEmailAction/Processes/ResolveMarkupWrapper/ResolveMarkupWrapperForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;buttons&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreCobrowse/Implementation/CobrowseInteraction/Verbs/CobrowseView'>
+    <error line='0' column='0' severity='error' message='Object field &apos;chatInteraction&apos; referencing &apos;EITextChatInteraction&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='CoreCobrowse/Implementation/CobrowseInteraction/Verbs/CobrowseView'>
+    <error line='0' column='0' severity='error' message='Implemented Interface Definition &apos;ITextChatFinishedListener&apos; is invalid' source='Invalid Implementations' />
+  </file>
+  <file name='CoreCobrowse/Implementation/CobrowseInteraction/Verbs/Run'>
+    <error line='0' column='0' severity='error' message='Object field &apos;entity&apos; referencing &apos;EITextChatInteraction&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='CoreChannels/Implementation/WorkPush/Processes/ChannelsPanel'>
+    <error line='0' column='0' severity='error' message='Object field &apos;channelPollingConfigList&apos; referencing &apos;ChannelPollingConfigList&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='CoreChannels/Implementation/SwingAgent/Processes/SwingTeamExecution/SwingTeamExecutionForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;Content&apos; has an invalid layout manager property &apos;row2height&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreChannels/Implementation/SwingAgent/Processes/SwingTeamExecution/SwingTeamExecutionForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;Content&apos; has an invalid layout manager property &apos;row3height&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreChannels/Implementation/SwingAgent/Verbs/InlineSearch/InlineSearchForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;content&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreChannels/Implementation/Toolbar/Processes/Toolbar/ToolbarForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;numColumns&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreChannels/Implementation/Toolbar/Processes/Toolbar/ToolbarForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;col2align&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreChannels/Implementation/Toolbar/Processes/Toolbar/ToolbarForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;col2childClasses&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreChannels/Implementation/Toolbar/Processes/Toolbar/ToolbarForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;col1width&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreChannels/Implementation/Toolbar/Processes/Toolbar/ToolbarForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;column2sizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreChannels/Implementation/Toolbar/Processes/Toolbar/ToolbarForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;col3childClasses&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreChannels/Implementation/Toolbar/Processes/Toolbar/ToolbarForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;column3sizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreChannels/Implementation/Toolbar/Processes/Toolbar/ToolbarForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;col3align&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreChannels/Implementation/Toolbar/Processes/Toolbar/ToolbarForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;containerClasses&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreChannels/Implementation/Toolbar/Processes/Toolbar/ToolbarForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;row1align&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreChannels/Implementation/Toolbar/Processes/Toolbar/ToolbarForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;row2align&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreChannels/Implementation/Toolbar/Processes/Toolbar/ToolbarForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;layoutGroup0&apos; has an invalid layout manager property &apos;sizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreChannels/Implementation/Toolbar/Processes/Toolbar/ToolbarForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;layoutGroup0&apos; has an invalid layout manager property &apos;row1sizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreChannels/Implementation/Toolbar/Processes/Toolbar/ToolbarForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;verticalAlignGroup2&apos; has an invalid layout manager property &apos;padding-left&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreChannels/Implementation/Toolbar/Processes/Toolbar/ToolbarForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;verticalAlignGroup2&apos; has an invalid layout manager property &apos;padding-right&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreChannels/Implementation/Toolbar/Processes/Toolbar/ToolbarForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;verticalAlignGroup2&apos; has an invalid layout manager property &apos;fillHeight&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreChannels/Implementation/Toolbar/Processes/Toolbar/ToolbarForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;statusGroup&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreChannels/Implementation/ReasonCode/Verbs/AddEditReasonCode/AddEditReasonCodeForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreChannels/Implementation/ChannelTimerManager/Verbs/TimerUpToolbar/TimerToolbarForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;align&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreChannels/Implementation/ChannelTimerManager/Verbs/TimerUpToolbar/TimerToolbarForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;layoutGroup1&apos; has an invalid layout manager property &apos;align&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreChannels/Implementation/ChannelTimerManager/Verbs/TimerDownToolbar/TimerDownToolbarForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;addPadding&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreChannels/Implementation/ChannelTimerManager/Verbs/TimerDownToolbar/TimerDownToolbarForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;align&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreChannels/Implementation/Common/Objects/RouterDef'>
+    <error line='0' column='0' severity='error' message='Object field &apos;channels&apos; referencing &apos;ChannelList&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='CoreChannels/Implementation/Common/Objects/RouterConfig'>
+    <error line='0' column='0' severity='error' message='Object field &apos;channels&apos; referencing &apos;ChannelList&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='CoreChannels/Implementation/ChannelInteraction/Verbs/SelectContactOutcome/SelectContactOutcomeForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;row2ChildClasses&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreChannels/Implementation/Blend/Verbs/AddEditBlend/AddEditBlendForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;labelComponent&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreChannels/Implementation/ChannelStateManager/Processes/DoLogoutDialog/DoLogoutMessageForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;content&apos; has an invalid layout manager property &apos;row2height&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreChannels/Implementation/ChannelStateManager/Processes/DoLogoutDialog/DoLogoutForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;content&apos; has an invalid layout manager property &apos;row4height&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreContactHistory/Implementation/Note/Processes/NoteProcess/NoteForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;buttons&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreContactHistory/Implementation/ContactHistory/Verbs/FilterContactHistory/FilterContactHistoryForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;numRows&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreContactHistory/Implementation/ContactHistory/Verbs/FilterContactHistory/FilterContactHistoryForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;row1height&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreContactHistory/Implementation/ContactHistory/Verbs/SelectContactOwner/SelectContactOwnerForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;buttons&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreContactHistory/Implementation/ContactHistory/Verbs/SearchContactHistory/SearchContactHistoryForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;contentSearchCriteria&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreContactHistory/Implementation/ContactHistory/Verbs/SearchContactHistory/SearchContactHistoryForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;componentAgent&apos; has an invalid layout manager property &apos;col1sizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreContactHistory/Implementation/ContactHistory/Verbs/PopupSelect/PopupSelectForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;Button&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreContactHistory/Implementation/ContactHistory/Verbs/EditContactFilters/EditFiltersForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;buttons&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreContactHistory/Implementation/Contact/ContactReport'>
+    <error line='0' column='0' severity='error' message='Implemented Interface Definition &apos;IReportData&apos; is invalid' source='Invalid Implementations' />
+  </file>
+  <file name='CoreContactHistory/Implementation/Contact/Verbs/WrapupContact/WrapupContactForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;outcomeGroup&apos; has an invalid layout manager property &apos;row2ChildClasses&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreContactHistory/Implementation/Contact/Verbs/WrapupContact/WrapupContactForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;Buttons&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreContactHistory/Implementation/Contact/Verbs/InlineSummary/InlineSummaryForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;row3height&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreContactHistory/Implementation/Contact/Verbs/InlineSearch/InlineSearchForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;numRows&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreReports/Implementation/ReportMenu/Verbs/InlineSelect/InlineSelectForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;sizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreReports/Implementation/Report/Processes/DisplayReport/DisplayReportForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;row1Height&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreReports/Implementation/Report/Verbs/Select/NestedSelectForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;sizeHints&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreReports/Implementation/Report/Verbs/Select/NestedSelectForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;row2height&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreReports/Implementation/Report/Verbs/Select/SelectForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;Footer&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreReports/Implementation/Report/Verbs/InlineEditTab/InlineEditForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;paramButtonGroup&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreReports/Implementation/Report/Verbs/SelectReportParameter/SelectReportParameterForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;buttonGroup&apos; has an invalid layout manager property &apos;button2Align&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreReports/Implementation/Report/Verbs/SelectReportParameter/SelectReportParameterForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;buttonGroup&apos; has an invalid layout manager property &apos;isPopup&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CorePageSetEditor/Implementation/ExitCode/Verbs/InlineEdit/InlineEditForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CorePageSetEditor/Implementation/ExitCode/Verbs/InlineView'>
+    <error line='0' column='0' severity='error' message='Object field &apos;form&apos; referencing &apos;InlineEditForm&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='CorePageSetEditor/Implementation/ReferenceInfo/Verbs/InlineEdit/InlineEditForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;layoutGroup0&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CorePageSetEditor/Implementation/PopupText/Verbs/InlineEdit/InlineEditForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;layoutGroup0&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CorePageSetEditor/Implementation/DiscoveryGroup/Processes/DiscoveryGroupInlineManage/DiscoveryGroupInlineManageForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;row2Height&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CorePageSetEditor/Implementation/DiscoveryGroup/Processes/DiscoverySubgroupInlineEdit/DiscoverySubgroupInlineEditForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;layoutGroup0&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CorePageSetEditor/Implementation/DiscoveryGroup/Verbs/InlineEdit/InlineEditForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;layoutGroup0&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CorePageSetEditor/Implementation/EmailForm/Verbs/InlineEdit/PageComponentForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;row2Height&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CorePageSetEditor/Implementation/EmailForm/Verbs/InlineEdit/PageComponentForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;row2sizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CorePageSetEditor/Implementation/EmailForm/Verbs/InlineEdit/PageComponentForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;labelComponent&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CorePageSetEditor/Implementation/LinkManagement/Processes/AddEditConditionalLink/AddLinkForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;Source&apos; has an invalid layout manager property &apos;padding-left&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CorePageSetEditor/Implementation/WebLink/Verbs/InlineEdit/InlineEditForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CorePageSetEditor/Implementation/WebLink/Verbs/InlineListView/InlineListViewForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CorePageSetEditor/Implementation/PageComponent/CheckboxGroup/Verbs/InlineEdit/InlineEditForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;topControls&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CorePageSetEditor/Implementation/PageComponent/Buttons/Verbs/InlineEdit/InlineEditForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CorePageSetEditor/Implementation/PageComponent/ButtonTable/Verbs/InlineEdit/InlineEditForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;topControls&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CorePageSetEditor/Implementation/PageComponent/TextInput/TextInputInlineEdit/TextInputInlineEditForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CorePageSetEditor/Implementation/PageComponent/WebLink/Verbs/InlineEdit/InlineEditForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;layoutGroup0&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CorePageSetEditor/Implementation/PageComponent/ContactTableComponent/Processes/ContactAdd/ContactAddForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CorePageSetEditor/Implementation/PageComponent/ContactTableComponent/Processes/CommonEditItem/AddEditItem'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;Content&apos; has an invalid layout manager property &apos;row2height&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CorePageSetEditor/Implementation/PageComponent/ContactTableComponent/Processes/CommonEditItem/AddEditItem'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;Content&apos; has an invalid layout manager property &apos;row3height&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CorePageSetEditor/Implementation/PageComponent/ContactTableComponent/Processes/CommonEditItem/AddEditItem'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;Type&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CorePageSetEditor/Implementation/PageComponent/ContactTableComponent/Verbs/InlineEdit/InlineEditForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;ComponentGridLayout&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CorePageSetEditor/Implementation/PageComponent/PageComponent/Processes/ComponentEdit/ComponentEditForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;componentType&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CorePageSetEditor/Implementation/PageComponent/PageComponent/Processes/ComponentCreate/ComponentCreateForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;componentType&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CorePageSetEditor/Implementation/PageComponent/RadioButtonGroup/Verbs/InlineEdit/InlineEditForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;layoutGroup5&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CorePageSetEditor/Implementation/PageComponent/RadioButtonGroup/Verbs/InlineEdit/InlineEditForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;layoutGroup2&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CorePageSetEditor/Implementation/PageComponent/ReferenceInformation/Verbs/InlineEdit/InlineEditForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CorePageSetEditor/Implementation/PageComponent/PageText/Verbs/InlineEditSimple/InlineEditSimpleForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;layoutGroup0&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CorePageSetEditor/Implementation/PageComponent/Dropdown/Verbs/InlineEdit/InlineEditForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;layoutGroup2&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CorePageSetEditor/Implementation/PageComponent/Dropdown/Verbs/InlineEdit/InlineEditForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;layoutGroup1&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CorePageSetEditor/Implementation/PageSet/Processes/Creators/Keywords/KeywordsForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;LabelValueGroup&apos; has an invalid layout manager property &apos;col2sizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CorePageSetEditor/Implementation/PageSet/Processes/PreviewDataDictionaryWrapper/PreviewDataDictionaryWrapperForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;button&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CorePageSetEditor/Implementation/PageSet/Verbs/Commit/CommitForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;LabelValueGroup&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CorePageSetEditor/Implementation/Template/Verbs/InlineEdit/InlineEditForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;template&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CorePageSetEditor/Implementation/Template/Verbs/AssignTemplate/AssignTemplateForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;layoutGroup0&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CorePageSetEditor/Implementation/Contact/Processes/ContactEmailDetails/ContactEmailDetailsForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;ContactGroup&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CorePageSetEditor/Implementation/Contact/Processes/ContactPhoneDetails/ContactPhoneDetailsForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;ContactGroup1&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CorePageSetEditor/Implementation/Contact/Verbs/InlineEdit/InlineEditForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;layoutGroup0&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CorePageSetEditor/Implementation/Contact/Verbs/InlineEdit/InlineEditForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;layoutGroup1&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CorePageSetEditor/Implementation/Contact/Verbs/ContactEdit/ContactEditForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CorePageSetEditor/Implementation/Page/Processes/AddEditPage/AddEditPageForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;labelComponent&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CorePageSetEditor/Implementation/Page/Processes/AddEditPage/AddEditPageForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;buttons&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CorePageSetEditor/Implementation/Page/Verbs/InlineManage/InlineManageForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;LabelValueGroup&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CorePageSetEditor/Implementation/Entity/Processes/SubInlineEditWrapperProcess/SubInlineEditWrapperProcessForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CorePageSetEditor/Implementation/Entity/Processes/CorePageSetEditorEditWithCopy/NestedCreateForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;rowsizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CorePageSetEditor/Implementation/Entity/Processes/CorePageSetEditorEditWithCopy/NestedCreateForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;row1Height&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CorePageSetEditor/Implementation/Entity/Processes/CorePageSetEditorEditWithCopy/NestedCreateForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;row2Height&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkConditionalLogic/Implementation/Condition/Processes/PopupReusedCondition/PopupReusedConditionForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;layoutGroup0&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkConditionalLogic/Implementation/Condition/Verbs/CreateOrEditSimpleCondition/CreateSingleConditionForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;row2Height&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkConditionalLogic/Implementation/Condition/Verbs/InlineView/InlineViewForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;button&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='AddKnowDynamicContent/Implementation/DynamicContent/Verbs/SelectAttachment/SelectAttachmentForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;ButtonLayout&apos; has an invalid layout manager property &apos;isPopup&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreWebUrl/Implementation/WebUrl/Processes/WebLinks/WebLinksForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;Filter&apos; has an invalid layout manager property &apos;col1width&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreWebUrl/Implementation/WebUrl/Verbs/InlineEdit/InlineEditForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;Contents&apos; has an invalid layout manager property &apos;row1sizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkEVA/Implementation/ContextConfig/Verbs/InlineEdit/InlineEditForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;row2width&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkEVA/Implementation/ContextConfig/Verbs/InlineEdit/InlineEditForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;name&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkEVA/Implementation/ContextConfig/Verbs/InlineListView/InlineListViewForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;row1width&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkEVA/Implementation/ContextConfig/Verbs/InlineView/InlineViewForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkEVA/Implementation/ProcessDescriptor/Verbs/SelectProcessDescriptor/MainForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkEVA/Implementation/EntityLocking/Processes/EntityLockedPopup/ViewEntityDetailsForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;buttons&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkEVA/Implementation/EntityLocking/Processes/AdminEntityLockDetails/AdminEntityLockDetailsForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;buttons&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkEVA/Implementation/Interchanger/Verbs/Export/ExportForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;ProgressAndList&apos; has an invalid layout manager property &apos;row1Height&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkEVA/Implementation/Interchanger/Verbs/Export/ExportForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;ProgressAndList&apos; has an invalid layout manager property &apos;row2Height&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkEVA/Implementation/VerbSwitcher/Processes/VerbRunner/RunVerbEventHandler/InvokerHandler'>
+    <error line='0' column='0' severity='error' message='Object field &apos;verb&apos; referencing &apos;Verb&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='FrameworkEVA/Implementation/VerbSwitcher/Processes/VerbRunner/RunVerbEventHandler/InvokerHandler'>
+    <error line='0' column='0' severity='error' message='Object field &apos;entity&apos; referencing &apos;PersistableEntity&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='FrameworkEVA/Implementation/VerbSwitcher/Processes/VerbRunner/RunVerbEventHandler/InvokerHandler'>
+    <error line='0' column='0' severity='error' message='Object field &apos;context&apos; referencing &apos;Context&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='FrameworkEVA/Implementation/EntitlementManager/Processes/Resolve/ProcessDescriptorRunner'>
+    <error line='0' column='0' severity='error' message='Object field &apos;platConf&apos; referencing &apos;GTPlatformConfiguration&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='FrameworkEVA/Implementation/Verb/Verbs/EditOverrideVerb/EditVerbForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkEVA/Implementation/Verb/Verbs/AddVerb/AddVerbForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;Body&apos; has an invalid layout manager property &apos;row7sizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkEVA/Implementation/Verb/Verbs/AddVerb/AddVerbForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;Body&apos; has an invalid layout manager property &apos;row7height&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkEVA/Implementation/Verb/Verbs/AddVerb/AddVerbForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;DisplayNameGroup&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkEVA/Implementation/Verb/Verbs/AddVerb/AddVerbForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;NameGroup&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkEVA/Implementation/Verb/Verbs/AddVerb/AddVerbForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;DescriptionGroup&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkEVA/Implementation/Verb/Verbs/AddVerb/AddVerbForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;processDescBarGroup&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkEVA/Implementation/Verb/Verbs/AddVerb/AddVerbForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;checkBoxBarRow1Group&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkEVA/Implementation/Verb/Verbs/ViewVerb/ViewVerbForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;containerClass&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkEVA/Implementation/Verb/Verbs/ViewVerb/ViewVerbForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;row1height&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkEVA/Implementation/Verb/Verbs/ViewVerb/ViewVerbForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;row2height&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkEVA/Implementation/Verb/Verbs/ViewVerb/ViewVerbForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;row3height&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkEVA/Implementation/Verb/Verbs/ViewVerb/ViewVerbForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;row4height&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkEVA/Implementation/ContextPlaceholder/Verbs/ResolveConflictAutomatically/ResolveConflictAutomaticallyForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;Buttons&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkEVA/Implementation/ContextPlaceholder/Verbs/ResolveConflictManually/ResolveMarkupManuallyForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;Buttons&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkEVA/Implementation/CacheManager/CacheManager'>
+    <error line='0' column='0' severity='error' message='Object field &apos;nameTypeMap&apos; referencing &apos;Map&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='FrameworkEVA/Implementation/Association/Verbs/Create/CreateForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;buttons&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkEVA/Implementation/Common/Objects/FetchableResult'>
+    <error line='0' column='0' severity='error' message='Implemented Interface Definition &apos;IFetchableResult&apos; is invalid' source='Invalid Implementations' />
+  </file>
+  <file name='FrameworkEVA/Implementation/Context/Verbs/InlineEntityListView/InlineListViewForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;numRows&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkEVA/Implementation/Context/Verbs/InlineEntityListView/InlineListViewForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;row1height&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkEVA/Implementation/AssociationType/Verbs/ManageAssociationTypeWrapper/ManageAssociationTypeWrapperForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;padding&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkEVA/Implementation/AssociationType/Verbs/Subprocesses/Details/DetailsForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkEVA/Implementation/AssociationType/Verbs/Subprocesses/AddEntityDefWrapper'>
+    <error line='0' column='0' severity='error' message='Object field &apos;filterEntityDefinition&apos; referencing &apos;EntityDefinition&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='FrameworkEVA/Implementation/AssociationType/Verbs/Subprocesses/AddDetailWrapper/AddDetailWrapperForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;col1Height&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkEVA/Implementation/AssociationType/Verbs/Subprocesses/EntityDef/EntityDefForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;Label&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkEVA/Implementation/Entitlement/Verbs/InlineEdit/InlineEditForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkEVA/Implementation/Entitlement/Verbs/InlineView/InlineViewForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkEVA/Implementation/EntityDefinition/Verbs/InlineEdit/InlineEditForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;DisplayName&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkEVA/Implementation/EntityDefinition/Verbs/InlineEdit/InlineEditForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;Name&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkEVA/Implementation/EntityDefinition/Verbs/InlineEdit/InlineEditForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;Description&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkEVA/Implementation/EntityDefinition/Verbs/InlineEdit/InlineEditForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;InterfacePath&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkEVA/Implementation/EntityDefinition/Verbs/InlineEdit/InlineEditForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;LogicalObjectPath&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkEVA/Implementation/EntityDefinition/Verbs/InlineEdit/InlineEditForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;SuperEntityDefinition&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkEVA/Implementation/EntityDefinition/Verbs/InlineSelectCategorisable/InlineSelectCategorisableForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;row2Height&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkEVA/Implementation/EntityDefinition/Verbs/InlineSelectCategorisable/InlineSelectCategorisableForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;filterGroup&apos; has an invalid layout manager property &apos;col1width&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkEVA/Implementation/Entity/Processes/DeleteConfirmationDialog/DialogForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;layoutGroup0&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkEVA/Implementation/Entity/Processes/CommonDeleteSummaryDescription/CommonDeleteSummaryDescriptionForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;sizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkEVA/Implementation/Entity/Processes/CommonDeleteSummaryDescription/CommonDeleteSummaryDescriptionForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;childClasses&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkEVA/Implementation/Entity/Processes/CommonDeleteSummaryDescription/CommonDeleteSummaryDescriptionForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;row3Height&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkEVA/Implementation/Entity/Verbs/EntityInlineSelectSearch/Results/ResultsForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkEVA/Implementation/Entity/Verbs/EntityInlineSelectSearch/SearchCriteria/SearchCriteriaForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;sizeHints&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkEVA/Implementation/Entity/Verbs/Select/NestedSelectForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;sizeHints&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkEVA/Implementation/Entity/Verbs/Select/NestedSelectForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;row2height&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkEVA/Implementation/Entity/Verbs/Select/SelectForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;Footer&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkEVA/Implementation/Entity/Verbs/InlineListView/InlineListViewForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;row1Height&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkEVA/Implementation/Entity/Verbs/EntityInlineDetailedSelectSearch/Results/ResultsForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkEVA/Implementation/Entity/Verbs/EntityInlineDetailedSelectSearch/SearchCriteria/SearchCriteriaForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;sizeHints&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkEVA/Implementation/Entity/Verbs/EntityInlineDetailedSelectSearch/EntityInlineDetailedSelectSearchForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkEVA/Implementation/Entity/Verbs/EntityManage/EntityManageForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkEVA/Implementation/Entity/Verbs/EntityPopupSelect/EntityPopupSelectForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;ButtonLayout&apos; has an invalid layout manager property &apos;isPopup&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkCommon/Internal/Cache/CacheStale/CacheStale'>
+    <error line='0' column='0' severity='error' message='Implemented Interface Definition &apos;StaleCacheEntry&apos; is invalid' source='Invalid Implementations' />
+  </file>
+  <file name='FrameworkCommon/API/RepositoryBrowser/RepositoryBrowser/RepBrowserForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;button&apos; has an invalid layout manager property &apos;isPopup&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreCallbacks/Implementation/Callback/Processes/CallbackTimer'>
+    <error line='0' column='0' severity='error' message='Implemented Interface Definition &apos;IWorkItemListener&apos; is invalid' source='Invalid Implementations' />
+  </file>
+  <file name='CoreCallbacks/Implementation/Callback/Verbs/Create/CreateForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;buttons&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreCallbacks/Implementation/Callback/Verbs/Homepage/HomepageForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;layoutGroup0&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreCallbacks/Implementation/Callback/Verbs/Edit/ViewEditForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;Button&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreCallbacks/Implementation/CustomerCallbacks/Verbs/CustomerCallbacks/CustomerCallbacksForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;layoutGroup0&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreEntities/Implementation/PhoneNumber/Processes/HostPhoneMappingDelete/HostPhoneMappingDeleteForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;Content&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreEntities/Implementation/PhoneNumber/Verbs/InlineView/InlineViewForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;col1width&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreEntities/Implementation/PhoneNumber/Verbs/InlineView/InlineViewForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;col2sizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreEntities/Implementation/Customer/Processes/InlineAddNewCustomer/InlineAddNewCustomerForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;buttons&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreEntities/Implementation/Customer/Processes/InlineSelectWrapper/InlineSelectWrapperForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;sizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreEntities/Implementation/Customer/Processes/SearchCustomer/SearchCustomerForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;buttons&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreEntities/Implementation/Customer/Processes/SearchCustomer/InlineSearchCustomerForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;buttons&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreEntities/Implementation/Customer/Processes/Address/AddressList/AddressListEditorForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;row1height&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreEntities/Implementation/Customer/Processes/AssignPhoneNumber/PhoneNumberScreenDetails'>
+    <error line='0' column='0' severity='error' message='Object field &apos;menuItemList&apos; referencing &apos;MenuItemList&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='CoreEntities/Implementation/Customer/Processes/AssignPhoneNumber/AssignPhoneNumberForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;mainLayout&apos; has an invalid layout manager property &apos;finalColumnWidth&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreEntities/Implementation/Customer/Verbs/EmailCustomer/EmailCustomerForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreEntities/Implementation/Customer/Verbs/CallCustomer/CallCustomerForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;LabelComponent&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreEntities/Implementation/Customer/Verbs/CallCustomer/CallCustomerForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;Buttons&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreEntities/Implementation/Customer/Verbs/Profile/ProfileForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;Button&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreEntities/Implementation/Customer/Verbs/CreateCustomerCase/CreateCustomerCaseForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;childClasses&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreEntities/Implementation/Customer/Verbs/CreateCustomerCase/CreateCustomerCaseForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;sizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreEntities/Implementation/Customer/Verbs/CreateCustomerCase/CreateCustomerCaseForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;row2height&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreEntities/Implementation/Person/Verbs/InlineEdit/InlineEditForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;Phone&apos; has an invalid layout manager property &apos;padding-bottom&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreEntities/Implementation/Person/Verbs/InlineEdit/InlineEditForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;EmailAddress&apos; has an invalid layout manager property &apos;padding-bottom&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreEntities/Implementation/Person/Verbs/InlineEdit/InlineEditForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;Addresses&apos; has an invalid layout manager property &apos;padding-bottom&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreEntities/Implementation/Person/Verbs/InlineCreateWrapper/InlineCreateForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;containerClass&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreEntities/Implementation/ContactDetails/AssociatedAddress/Verbs/Manage/ManageForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;sizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreEntities/Implementation/ContactDetails/AssociatedAddress/Verbs/View/ManageForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;sizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreEntities/Implementation/ContactDetails/AssociatedAddress/Verbs/View/ManageForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;childClasses&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreEntities/Implementation/ContactDetails/AssociatedAddress/Verbs/InlineListView/InlineListViewForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;numRows&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreEntities/Implementation/ContactDetails/AssociatedAddress/Verbs/InlineListView/InlineListViewForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;row1height&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreEntities/Implementation/ContactDetails/AssociatedAddress/Verbs/CreateAssociatedAddress/CreateAssociatedAddressForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;row1&apos; has an invalid layout manager property &apos;padding-right&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreEntities/Implementation/ContactDetails/AssociatedAddress/Verbs/CreateAssociatedAddress/CreateAssociatedAddressForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;row2&apos; has an invalid layout manager property &apos;padding-left&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreEntities/Implementation/ContactDetails/Verbs/Manage/ManageForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;numRows&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreEntities/Implementation/ContactDetails/Verbs/Manage/ManageForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;row1height&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreEntities/Implementation/ContactDetails/Verbs/Manage/ManageForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;row2height&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkCaseHandling/API/Interfaces/SubCaseAssociationTypeList'>
+    <error line='0' column='0' severity='error' message='Record &apos;SubCaseAssociationType&apos; is invalid' source='Invalid Records In Lists' />
+  </file>
+  <file name='FrameworkCaseHandling/API/Interfaces/StateConditionDefinitionList'>
+    <error line='0' column='0' severity='error' message='Record &apos;StateConditionDefinition&apos; is invalid' source='Invalid Records In Lists' />
+  </file>
+  <file name='FrameworkCaseHandling/API/Interfaces/RuleConditionList'>
+    <error line='0' column='0' severity='error' message='Record &apos;RuleCondition&apos; is invalid' source='Invalid Records In Lists' />
+  </file>
+  <file name='FrameworkCaseHandling/Implementation/Transitions/Processes/ManageTransitions/ManageTransitionsForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;layoutGroup1&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkCaseHandling/Implementation/SubCaseAssociationType/Verbs/AssignSubcaseAssociationType/AssignSubcaseAssociationTypeForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;buttons&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkCaseHandling/Implementation/SubCaseAssociationType/Verbs/EditSubcaseAssociationType/InlineCreateForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;Buttons&apos; has an invalid layout manager property &apos;button2Align&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkCaseHandling/Implementation/SubCaseAssociationType/Verbs/CreateSubcaseAssociationType/InlineCreatePopupForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;Buttons&apos; has an invalid layout manager property &apos;button2Align&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkCaseHandling/Implementation/SubCaseAssociationType/Verbs/CreateSubcaseAssociationType/InlineCreateForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;Buttons&apos; has an invalid layout manager property &apos;button2Align&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkCaseHandling/Implementation/RuleDefinition/Verbs/AddRule/AddRuleForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;buttons&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkCaseHandling/Implementation/RuleDefinition/Verbs/CreateOrEdit/EditRuleForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;buttons&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkCaseHandling/Implementation/RuleDefinition/Verbs/EditRule/EditRuleForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;buttons&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkCaseHandling/Implementation/Action/Processes/CancelAction/CancelActionForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;buttons&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkCaseHandling/Implementation/Action/Processes/MasterCaseAvailableActions/MasterCaseAvailableActionsForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;buttonGroup&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkCaseHandling/Implementation/Action/Processes/ContinueOnLockedPopup/ContinueOnLockedPopupForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;layoutGroup0&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkCaseHandling/Implementation/Action/Processes/MasterCaseWorkflowActions/WorkflowActionsForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;buttonGroup&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkCaseHandling/Implementation/Action/Verbs/ViewAvailableActions/ViewAvailableActionsForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;buttonGroup&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkCaseHandling/Implementation/CompositeCase/Processes/ViewSubCaseTypeTree/ViewCaseTypeTreeForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;filterGroup&apos; has an invalid layout manager property &apos;col1width&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkCaseHandling/Implementation/CompositeCase/Processes/SelectSubCaseTypes/SelectSubCaseTypesForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;button&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkCaseHandling/Implementation/CompositeCase/Processes/InlineEditMasterCaseNotes/InlineEditMasterCaseNotesForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;Button&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkCaseHandling/Implementation/CompositeCase/Processes/EditMasterCaseNote/AddCaseNoteForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;buttonGroup&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkCaseHandling/Implementation/CompositeCase/Processes/InlineListViewCaseNote/InlineListViewCaseNoteForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;labelComponent&apos; has an invalid layout manager property &apos;componentsizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkCaseHandling/Implementation/CompositeCase/Processes/CaseHistorySummary/CaseHistorySummaryForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;optionMenu&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkCaseHandling/Implementation/WorkingHoursCalendar/Processes/WorkingHoursHolidays/WorkingHoursHolidaysForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;buttons&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkCaseHandling/Implementation/WorkingHoursCalendar/BankHoliday/Verbs/InlineSelect/InlineSelectForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;labelComponent&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkCaseHandling/Implementation/WorkingHoursCalendar/Verbs/InlineCreate/InlineCreateForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;details&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkCaseHandling/Implementation/CaseTypeCategory/SelectCaseTypeCategory/SelectCaseTypeCategoryForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;button&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkCaseHandling/Implementation/Case/Processes/SelectCaseOwner/SelectCaseOwnerForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;buttons&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkCaseHandling/Implementation/Case/Processes/ViewCaseTypeTree/ViewCaseTypeTreeForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;filterGroup&apos; has an invalid layout manager property &apos;col1width&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkCaseHandling/Implementation/Case/Processes/InnerProcesses/SelectCaseTypeFromList/SelectCaseTypeForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;buttons&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkCaseHandling/Implementation/Case/Processes/InnerProcesses/AddCaseCustomer/AddCaseCustomerForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;buttons&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkCaseHandling/Implementation/Case/Verbs/ViewWorkflowActions/ViewWorkflowActionsForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;buttonGroup&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkCaseHandling/Implementation/Case/Verbs/InlineListViewCaseDisplay/InlineListViewCaseDisplayForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;numRows&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkCaseHandling/Implementation/Case/Verbs/InlineSearch/InlineSearchForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;contents&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkCaseHandling/Implementation/CaseTypeSLA/Processes/AssignSLAState/AssignSLAStateForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;buttons&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkCaseHandling/Implementation/CaseTypeSLA/Verbs/AddSLA/AddSLAForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;layoutGroup0&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkCaseHandling/Implementation/CaseTypeSLA/Verbs/EditSLA/EditSLAForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;layoutGroup0&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkCaseHandling/Implementation/RuleCondition/AbstractTypeCondition/Verbs/TestCondition/TestConditionForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;button&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkCaseHandling/Implementation/StateDefinition/Processes/AddSLA/AddSLAForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;details&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkCaseHandling/Implementation/StateDefinition/Verbs/EditState/EditStateForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;layoutGroup0&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkCaseHandling/Implementation/StateDefinition/Verbs/CreateState/CreateStateForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;details&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkCaseHandling/Implementation/StateActionDefinition/Processes/OnEntryStateActions/OnEntryStateActionsForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;row1Height&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkCaseHandling/Implementation/StateActionDefinition/Processes/AdHocStateActions/AdHocStateActionsForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;row1Height&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkCaseHandling/Implementation/StateActionDefinition/Processes/ViewStateActionProcess/ViewAction/ViewActionForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;numRows&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkCaseHandling/Implementation/StateActionDefinition/Processes/OnExitStateActions/OnExitStateActionsForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;row1Height&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkCaseHandling/Implementation/CaseType/CreateCaseTypeWizard/InlineCreateStateTransitions/CreateStateTransitionsForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;sourcestate&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkCaseHandling/Implementation/CaseType/CreateCaseTypeWizard/InlineCreateStateActions/AddEditStateAction/AddEditStateActionForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;cancelConfirmGroup&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkCaseHandling/Implementation/CaseType/CreateCaseTypeWizard/InlineCreateCaseActions/AddEditCaseAction/AddEditCaseActionForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;confirmCancelGroup&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkCaseHandling/Implementation/CaseType/Verbs/SelectCaseType/SelectCaseTypeForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;button&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreCampaignManagement/Implementation/CampaignContactSearch/Verbs/ViewCampaignContactRecord/ViewCampaignContactRecordForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;row2fillHeight&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreCampaignManagement/Implementation/CampaignContactSearch/Verbs/Search/SearchCampaignContactForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;row3sizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreCampaignManagement/Implementation/CampaignStep/Processes/SelectRecipient/SelectRecipientForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;contentPadding&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreCampaignManagement/Implementation/CampaignStep/Processes/SelectRecipient/SelectRecipientForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;layoutGroup0&apos; has an invalid layout manager property &apos;button1align&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreCampaignManagement/Implementation/CampaignStep/Verbs/AssignCampaignWrapper/AssignCampaignWrapperForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;contentPadding&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreCampaignManagement/Implementation/CampaignStep/Verbs/AssignCampaignWrapper/AssignCampaignWrapperForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;layoutGroup0&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreCampaignManagement/Implementation/CampaignStep/Verbs/InlineCreateOrEditDetails/InlineCreateDetailsForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;addPadding&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreCampaignManagement/Implementation/CampaignStep/Verbs/InlineCreateOrEditDetails/InlineCreateDetailsForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;layoutGroup0&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreCampaignManagement/Implementation/CampaignStep/Verbs/InlineCreateOrEditDetails/InlineCreateDetailsForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;layoutGroup1&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreCampaignManagement/Implementation/CampaignRecord/Processes/RecordDetails/RecordDetailsForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;sizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreCampaignManagement/Implementation/CampaignRecord/Verbs/InlineView/InlineViewForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;sizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreCampaignManagement/Implementation/CampaignTreatment/OutboundTelephonyCampaignTreatment/Verbs/Predictive/PredictiveForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;sizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreCampaignManagement/Implementation/CampaignOutcome/Verbs/InlineManageViewEdit/InlineManageForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;addPadding&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreCampaignManagement/Implementation/CampaignOutcome/Verbs/CreateOrEdit/CreateOrEditForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;Content&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreFAQs/Implementation/Verbs/InlineEdit/InlineEditForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;questionGroup&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreFAQs/Implementation/Verbs/DisplayQuestions/DisplayQuestionsForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;row1Height&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreFAQs/Implementation/Verbs/DisplayQuestions/DisplayQuestionsForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;row2Height&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreFAQs/Implementation/Verbs/DisplayQuestions/DisplayQuestionsForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;row3Height&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreFAQs/Implementation/Verbs/AddtoAssignments/AddtoAssignmentsForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;ContentCollumns&apos; has an invalid layout manager property &apos;numColumns&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreFAQs/Implementation/Verbs/AddtoAssignments/AddtoAssignmentsForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;ContentCollumns&apos; has an invalid layout manager property &apos;col1width&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreFAQs/Implementation/Verbs/AddtoAssignments/AddtoAssignmentsForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;ContentCollumns&apos; has an invalid layout manager property &apos;col2width&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreFAQs/Implementation/Verbs/AddtoAssignments/AddtoAssignmentsForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;ContentCollumns&apos; has an invalid layout manager property &apos;col3width&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreFAQs/Implementation/Verbs/ManageAssignmentsQuestions/ManageAssignmentsQuestionsForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;layoutGroup0&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreFAQs/Implementation/Verbs/ManageAssignmentsQuestions/ManageAssignmentsQuestionsForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;layoutGroup1&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreFAQs/Implementation/Verbs/ManageAssignments/ManageAssignmentsForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;leftButton&apos; has an invalid layout manager property &apos;align&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreFAQs/Implementation/Verbs/ManageAssignments/ManageAssignmentsForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;rightButton&apos; has an invalid layout manager property &apos;align&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreFAQs/Implementation/Verbs/InlineCreate/InlineCreate2Form'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;questionGroup&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreBackOffice/Implementation/BackOfficeCaseAction/BackOfficeCaseAction/BackOfficeCaseActionForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;content&apos; has an invalid layout manager property &apos;row2height&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='AddKnowContentBase/Implementation/BrowserTabHandler/BrowserTabHandlerList'>
+    <error line='0' column='0' severity='error' message='Record &apos;EIBrowserTabHandler&apos; is invalid' source='Invalid Records In Lists' />
+  </file>
+  <file name='AddKnowContentBase/Implementation/BrowserTabHandler/Verbs/Create/CreateForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;Content&apos; has an invalid layout manager property &apos;col1width&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreTelephony/API/Interfaces/EIDiallerCallback/inlineEdit'>
+    <error line='0' column='0' severity='error' message='Object field &apos;campaignCallback&apos; referencing &apos;EICampaigncallback&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='CoreTelephony/Implementation/DiallerCallbacks/Verbs/Create/CreateForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;buttons&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreTelephony/Implementation/DiallerTelephoneCall/Verbs/MakeDiallerCall/MakeTelephoneCallForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;buttonGroup&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreTelephony/Implementation/TelephonyStateManager/Verbs/ShowToolbar/MainForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;sizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreTelephony/Implementation/TelephonyStateManager/Verbs/ShowToolbar/MainForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;buttonGroup&apos; has an invalid layout manager property &apos;col1lineHeight&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreTelephony/Implementation/TelephonyStateManager/Verbs/ShowToolbar/MainForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;buttonGroup&apos; has an invalid layout manager property &apos;col2lineHeight&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreTelephony/Implementation/TelephonyStateManager/Verbs/ShowToolbar/MainForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;buttonGroup&apos; has an invalid layout manager property &apos;col3lineHeight&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreTelephony/Implementation/TelephonyStateManager/Verbs/ShowToolbar/MainForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;buttonGroup&apos; has an invalid layout manager property &apos;col4lineHeight&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreTelephony/Implementation/TelephonyStateManager/Verbs/ShowToolbar/MainForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;buttonGroup&apos; has an invalid layout manager property &apos;col5lineHeight&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreTelephony/Implementation/TelephoneCall/Processes/SelectPhoneNumber/SelectPhoneNumberForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;addressBook&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreTelephony/Implementation/TelephoneCall/Processes/SelectPhoneNumber/SelectPhoneNumberForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;layoutGroup0&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreTelephony/Implementation/TelephoneCall/Verbs/MakeTelephoneCall/MakeTelephoneCallForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;buttonGroup&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreTelephony/Implementation/TelephoneCall/Verbs/TransferCall/TransferCallForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;buttonGroup&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreTelephony/Implementation/TelephoneCall/Verbs/ConferenceCall/ConferenceCallForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;buttonGroup&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreTelephony/Implementation/DiallerConfig/Verbs/Manage/ManageForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;contentPadding&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreTelephony/Execution/Processes/InteractionWaiting/Form'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;ButtonGroup&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreCommon/Attachment/Admin/Processes/AttachmentSize/AttachmentSizeForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;contentPadding&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreCommon/Attachment/Admin/Processes/AttachmentSize/AttachmentSizeForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;layoutGroup1&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreCommon/Attachment/Admin/Processes/AttachmentSummary/MainForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;row1Height&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreCommon/Attachment/Admin/Processes/AttachmentUpdate/MainForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;content&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreCommon/Implementation/Password/SetPassword/SetPasswordForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;padding&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreCommon/Export/Implementation/TestHarness/Template/CreateMailMergeItem/CreateMailMergeItemForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;buttons&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreCommon/UI/Templates/AssignTemplate/SearchCriteria/SearchCriteriaForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;sizeHints&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreCommon/UI/Templates/SearchTemplate/SearchCriteria/SearchCriteriaForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;sizeHints&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CorePageSet/API/PageSetData/EIPageSetData/embeddedView'>
+    <error line='0' column='0' severity='error' message='Object field &apos;parentEntity&apos; referencing &apos;EIBaseCase&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='CorePageSet/Implementation/Action/OpenWebLinkAction/Verbs/OpenWebLink/OpenWebLinkForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;buttons&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CorePageSet/Implementation/PageSetEngine/Processes/PageDataValidationPopup/PageDataValidationErrorForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;sizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CorePageSet/Implementation/Page/Verbs/Display/DisplayForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;sizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='AddKMRichSearchEngineAdmin/Implementation/ContentSource/Tabs/SearchByAuthor'>
+    <error line='0' column='0' severity='error' message='Implemented Interface Definition &apos;ISearchFilterProcess&apos; is invalid' source='Invalid Implementations' />
+  </file>
+  <file name='AddKMRichSearchEngineAdmin/Implementation/ContentSource/ContentSourceSP/Verbs/CreateContentSource'>
+    <error line='0' column='0' severity='error' message='Object field &apos;tagSetSelections&apos; referencing &apos;TagSetSelectionList&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='AddKMRichSearchEngineAdmin/Implementation/ContentSource/Verbs/ContentSourceReportDetailsDisplay/ContentSourceReportDetailsDisplayForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;docsFiltererd&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='AddKMRichSearchEngineAdmin/Implementation/IndexField/Verbs/InlineEditIndexField/InlineEditIndexFieldForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreWhitemail/Implementation/QueuedWhitemailType/QueuedWhitemailTemplate/Verbs/PopupMultiSelect/PopupMultiSelectForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;ButtonLayout&apos; has an invalid layout manager property &apos;isPopup&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CorePageSetDiscovery/Implementation/Discovery/Verbs/Select/SelectForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;layoutGroup0&apos; has an invalid layout manager property &apos;addContainer&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CorePageSetDiscovery/Implementation/Discovery/Verbs/Select/SelectForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;layoutGroup1&apos; has an invalid layout manager property &apos;addContainer&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CorePageSetDiscovery/Implementation/Discovery/Verbs/Select/SelectForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;layoutGroup2&apos; has an invalid layout manager property &apos;addContainer&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkDynamicEntities/Implementation/DynamicEntityDefinition/Verbs/InlineCreate/InlineCreateForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;detailGroup&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkDynamicEntities/Implementation/DynamicEntityDefinition/Verbs/EditDynamicEntityDefinition/EditDynamicEntityDefinitionForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;GeneralContent&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkDynamicEntities/Implementation/LayoutType/Verbs/InlineEdit/InlineEditForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;layoutGroup0&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkDynamicEntities/Implementation/LayoutType/Verbs/InlineEdit/InlineEditForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;layoutGroup1&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkDynamicEntities/Implementation/Field/Objects/Field'>
+    <error line='0' column='0' severity='error' message='Procedure &apos;setContextUpdatable&apos; does not exist' source='Missing Procedures' />
+  </file>
+  <file name='FrameworkDynamicEntities/Implementation/Field/Verbs/EditField/EditFieldForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;layoutGroup7&apos; has an invalid layout manager property &apos;row1Height&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkDynamicEntities/Implementation/Field/Verbs/EditField/EditFieldForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;layoutGroup8&apos; has an invalid layout manager property &apos;row1Height&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkDynamicEntities/Implementation/Field/Verbs/AddField/AddFieldForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;layoutGroup7&apos; has an invalid layout manager property &apos;row1Height&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkDynamicEntities/Implementation/Field/Verbs/AddField/AddFieldForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;layoutGroup8&apos; has an invalid layout manager property &apos;row1Height&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkDynamicEntities/Implementation/FieldType/Verbs/InlineEdit/InlineEditForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;layoutGroup0&apos; has an invalid layout manager property &apos;column1width&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkDynamicEntities/Implementation/FieldType/Verbs/InlineEdit/InlineEditForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;layoutGroup0&apos; has an invalid layout manager property &apos;column2width&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkDynamicEntities/Implementation/DynamicEntity/Verbs/Render/RenderWithHeader/RenderWithHeaderForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;sizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkDynamicEntities/Implementation/ComponentType/Processes/EditComponentType/EditComponentTypeForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;Content&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkDynamicEntities/Implementation/ComponentType/Verbs/InlineEdit/InlineEditForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='FrameworkDynamicEntities/Implementation/ComponentType/Verbs/ManageComponentType/ManageComponentTypeForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;Top&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreTemplates/Implementation/Template/Processes/Entitlements'>
+    <error line='0' column='0' severity='error' message='Object field &apos;entity&apos; referencing &apos;EIAddressBook&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='CoreTemplates/Implementation/Template/Verbs/InlineEdit/InlineEditForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;TopContents&apos; has an invalid layout manager property &apos;ComponentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreAgent/Internal/Position/Verbs/ManageForTeam/ManagePositionsForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;content&apos; has an invalid layout manager property &apos;row1height&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreAgent/Internal/Team/Verbs/InlineSelectSearchQueueAssignment/EntityInlineSearchWrapper/EntityInlineSearchWrapperForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;buttons&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreAgent/Internal/TeamRole/Verbs/InlineCreateEdit/InlineCreateEditForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;fieldsLayout&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreAgent/Internal/AgentAvailability/Verbs/InlineSearchByChannelType/InlineSearchForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;layoutGroup0&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreAgent/Internal/AgentAvailability/Verbs/InlineSearchByChannelType/InlineSearchForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;layoutGroup1&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreAgent/Internal/DailyReport/Verbs/TeamAvgDailyInteractionReport/TeamAvgDailyInteractionReportForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;row1Height&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreAgent/Internal/DailyReport/Verbs/TeamAvailabilityGraphReport/TeamAvailabilityGraphReportForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;row1Height&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreAgent/Internal/DailyReport/Verbs/AgentDailyInteractionReport/AgentDailyInteractionReportForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;row1Height&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreAgent/Internal/DailyReport/Verbs/ChannelInteractionReport/OutboundOfflineInteraction/OutboundOfflineInteractionForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;labelisComponent&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreAgent/Internal/DailyReport/Verbs/ChannelInteractionReport/InboundWhitemailInteraction/InboundWhitemailInteractionForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;labelisComponent&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreAgent/Internal/DailyReport/Verbs/ChannelInteractionReport/OutboundCampaignInteraction/OutboundCampaignInteractionForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;labelisComponent&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreAgent/Internal/DailyReport/Verbs/ChannelInteractionReport/OutboundSocialInteraction/OutboundSocialInteractionForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;labelisComponent&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreAgent/Internal/DailyReport/Verbs/ChannelInteractionReport/OutboundCallInteraction/OutboundCallInteractionForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;labelisComponent&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreAgent/Internal/DailyReport/Verbs/ChannelInteractionReport/InboundChatInteraction/InboundChatInteractionForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;labelisComponent&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreAgent/Internal/DailyReport/Verbs/ChannelInteractionReport/InboundCallInteraction/InboundCallInteractionForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;labelisComponent&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreAgent/Internal/DailyReport/Verbs/ChannelInteractionReport/OutboundWhitemailInteraction/OutboundWhitemailInteractionForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;labelisComponent&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreAgent/Internal/DailyReport/Verbs/ChannelInteractionReport/InboundEmailInteraction/InboundEmailInteractionForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;labelisComponent&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreAgent/Internal/DailyReport/Verbs/ChannelInteractionReport/OutboundEmailInteraction/OutboundEmailInteractionForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;labelisComponent&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreAgent/Internal/DailyReport/Verbs/ChannelInteractionReport/InboundSocialInteraction/InboundSocialInteractionForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;labelisComponent&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreAgent/Internal/DailyReport/Verbs/TeamDailyInteractionReport/TeamDailyInteractionReportForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;row1height&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreAgent/Internal/DailyReport/Verbs/AgentAvailabilityGraphReport/AgentAvailabilityGraphReportForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;row1Height&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreAgent/Internal/Common/Verbs/InlineSelectSearchByChannelType/EntityInlineSearchWrapper/EntityInlineSearchWrapperForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;buttons&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreAgent/Internal/TeamRoleType/Verbs/InlineCreateEdit/InlineCreateEditForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreAgent/Internal/TeamRoleType/Verbs/InlineListView/InlineListViewForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;sizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreAgent/Internal/Agent/Verbs/EditAgent/RunEditPerson/RunEditPersonForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;layoutGroup1&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreAgent/Internal/Agent/Verbs/InlineListViewInheritedEntitlement/InlineListViewForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;layoutGroup0&apos; has an invalid layout manager property &apos;align&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreAgent/Internal/Agent/Verbs/InlineListViewInheritedEntitlement/InlineListViewForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;layoutGroup0&apos; has an invalid layout manager property &apos;isPopup&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreAgent/Internal/Agent/Verbs/AddPositions/AddPositionsForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;Content&apos; has an invalid layout manager property &apos;row1Height&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreAgent/Internal/Agent/Verbs/InlineEditWorkRouting/SelectEntitlement/SelectEntitlementForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;sizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreAgent/Internal/Agent/Verbs/InlineEditPositions/InlineEditPositionsForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;Add&apos; has an invalid layout manager property &apos;childClasses&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreAgent/Internal/Agent/Verbs/InlineEditPositions/InlineEditPositionsForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;Add&apos; has an invalid layout manager property &apos;sizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreAgent/Internal/Agent/Verbs/InlineManagePositions/InlineManagePositionsForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;layoutGroup0&apos; has an invalid layout manager property &apos;paddin-bottom&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreAgent/Internal/TeamAvailability/Verbs/InlineSearchByChannelType/InlineSearchForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;componentSizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreAgent/API/Processes/AdvanceInlineAssignRecipients/RunTab/RunTabForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;sizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreAgent/API/Processes/AdvanceInlineAssignRecipients/RunTab/RunTabForm'>
+    <error line='0' column='0' severity='error' message='Pane &apos;pane0&apos; has an invalid layout manager property &apos;row1sizeHint&apos;' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreAgent/API/Processes/SelectSingleRecipient/AuthorPopupForm'>
+    <error line='0' column='0' severity='error' message='Layout group &apos;layoutGroup0&apos; has no layout manager therefore all properties are invalid' source='Invalid Layout Manager Properties' />
+  </file>
+  <file name='CoreInteractionMonitor/Implementation/ExitCodeWrapupMapping/Verbs/InlineListView'>
+    <error line='0' column='0' severity='error' message='Object field &apos;exitCodes&apos; referencing &apos;ExitCodeList&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='CoreInteractionMonitor/Implementation/ExitCodeWrapupMapping/Verbs/InlineListView'>
+    <error line='0' column='0' severity='error' message='Object field &apos;outcomeCodes&apos; referencing &apos;ContactOutcomeCodeList&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='CoreInteractionMonitor/Implementation/ExitCodeWrapupMapping/Verbs/InlineListView'>
+    <error line='0' column='0' severity='error' message='Object field &apos;selectedPageSet&apos; referencing &apos;EIPageSet&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='CoreInteractionMonitor/Implementation/ExitCodeWrapupMapping/Verbs/InlineListView'>
+    <error line='0' column='0' severity='error' message='Object field &apos;selectedExitCode&apos; referencing &apos;EIExitCode&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='CoreInteractionMonitor/Implementation/ExitCodeWrapupMapping/Verbs/InlineListView'>
+    <error line='0' column='0' severity='error' message='Object field &apos;selectedOutcomeCode&apos; referencing &apos;IContactOutcomeCode&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='AddKnowContentAgentUI/Implementation/ContentInteractionHistory/Verbs/InlineListViewTopTrendingByRole'>
+    <error line='0' column='0' severity='error' message='Implemented Interface Definition &apos;IRefreshableProcess&apos; is invalid' source='Invalid Implementations' />
+  </file>
+  <file name='AddKnowContentAgentUI/Implementation/ContentInteractionHistory/Verbs/InlineListViewTopTrending'>
+    <error line='0' column='0' severity='error' message='Implemented Interface Definition &apos;IRefreshableProcess&apos; is invalid' source='Invalid Implementations' />
+  </file>
+  <file name='IntegrationTests/CounterService/TestCountersForEmailCreated'>
+    <error line='0' column='0' severity='error' message='Object field &apos;originalEmailAddress&apos; referencing &apos;EIAssociatedEmailAddress&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Rules/RulesEngine/WorkItem/TestRulesSaveAndExecute_WorkItemED_subject'>
+    <error line='0' column='0' severity='error' message='Object field &apos;rulesServiceProvider&apos; referencing &apos;EIRulesServiceProvider&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Rules/RulesEngine/WorkItem/TestRulesSave_WithoutWHEN'>
+    <error line='0' column='0' severity='error' message='Object field &apos;rulesServiceProvider&apos; referencing &apos;EIRulesServiceProvider&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Rules/RulesEngine/WorkItem/TestRulesSave_WithoutTHEN'>
+    <error line='0' column='0' severity='error' message='Object field &apos;rulesServiceProvider&apos; referencing &apos;EIRulesServiceProvider&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Rules/RulesEngine/WorkItem/TestRulesSaveAndExecute_WorkItemED_age'>
+    <error line='0' column='0' severity='error' message='Object field &apos;actionProcessor&apos; referencing &apos;EIActionProcessor&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Rules/RulesEngine/WorkItem/TestRulesSaveAndExecute_RulesRankingOrder'>
+    <error line='0' column='0' severity='error' message='Object field &apos;rulesServiceProvider&apos; referencing &apos;EIRulesServiceProvider&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Rules/RulesEngine/WorkItem/TestRulesSaveAndExecute_WorkItemED_contactType'>
+    <error line='0' column='0' severity='error' message='Object field &apos;rulesServiceProvider&apos; referencing &apos;EIRulesServiceProvider&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Rules/RulesEngine/WorkItem/TestRulesSaveAndExecute_Parent_Children_Rules'>
+    <error line='0' column='0' severity='error' message='Object field &apos;rulesServiceProvider&apos; referencing &apos;EIRulesServiceProvider&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Rules/RulesEngine/WorkItem/TestRulesSaveAndExecute_WorkItemED_creationDate'>
+    <error line='0' column='0' severity='error' message='Object field &apos;actionProcessor&apos; referencing &apos;EIActionProcessor&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Rules/RulesEngine/Queue/TestRulesSaveAndExecute_QueueED_name'>
+    <error line='0' column='0' severity='error' message='Object field &apos;customer&apos; referencing &apos;EICustomer&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Rules/RulesEngine/Queue/TestRulesSaveAndExecute_QueueED_name'>
+    <error line='0' column='0' severity='error' message='Object field &apos;emailAddress&apos; referencing &apos;EIEmailAddress&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Rules/RulesEngine/Social/TestRulesSaveAndExecute_SocialED_verbatim'>
+    <error line='0' column='0' severity='error' message='Object field &apos;customer&apos; referencing &apos;EICustomer&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Rules/RulesEngine/Social/TestRulesSaveAndExecute_SocialED_verbatim'>
+    <error line='0' column='0' severity='error' message='Object field &apos;emailAddress&apos; referencing &apos;EIEmailAddress&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Rules/RulesEngine/ChannelInteraction/TestRulesSaveAndExecute_ChannelInterED_senderId'>
+    <error line='0' column='0' severity='error' message='Object field &apos;customer&apos; referencing &apos;EICustomer&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Rules/RulesEngine/ChannelInteraction/TestRulesSaveAndExecute_ChannelInterED_senderId'>
+    <error line='0' column='0' severity='error' message='Object field &apos;emailAddress&apos; referencing &apos;EIEmailAddress&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Rules/RulesEngine/ChannelInteraction/Attributes/TestChannelInteractionAttributesExist'>
+    <error line='0' column='0' severity='error' message='Object field &apos;attributeList&apos; referencing &apos;AttributeList&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Rules/RulesEngine/RegularExpressions/TestRulesSaveAndExecute_RegularExpressions'>
+    <error line='0' column='0' severity='error' message='Object field &apos;rulesServiceProvider&apos; referencing &apos;EIRulesServiceProvider&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/AvailabilityAllocationService/CoreAvailabilityAllocation/AgentAllocation/FindAndReserveAgent/TestFindAndReserveAgentSingleTarget'>
+    <error line='0' column='0' severity='error' message='Object field &apos;targetList&apos; referencing &apos;IRoutingTargetList&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/AvailabilityAllocationService/CoreAvailabilityAllocation/AgentAllocation/CancelReservation/TestCancelReservationThatDoesNotExist'>
+    <error line='0' column='0' severity='error' message='Object field &apos;targetList&apos; referencing &apos;IRoutingTargetList&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/AvailabilityAllocationService/CoreAvailabilityAllocation/AgentAllocation/CancelReservation/TestCancelReservationThatExists'>
+    <error line='0' column='0' severity='error' message='Object field &apos;targetList&apos; referencing &apos;IRoutingTargetList&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Search/Preferences/TestMustShould'>
+    <error line='0' column='0' severity='error' message='Object field &apos;queryField1&apos; referencing &apos;IQueryField&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Search/Preferences/TestMustShould'>
+    <error line='0' column='0' severity='error' message='Object field &apos;queryField2&apos; referencing &apos;IQueryField&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Search/Preferences/TestPreferences'>
+    <error line='0' column='0' severity='error' message='Object field &apos;queryField1&apos; referencing &apos;IQueryField&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Search/Preferences/TestPreferences'>
+    <error line='0' column='0' severity='error' message='Object field &apos;queryField2&apos; referencing &apos;IQueryField&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Search/Preferences/TestMustMust'>
+    <error line='0' column='0' severity='error' message='Object field &apos;queryField1&apos; referencing &apos;IQueryField&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Search/Preferences/TestMustMust'>
+    <error line='0' column='0' severity='error' message='Object field &apos;queryField2&apos; referencing &apos;IQueryField&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Search/Preferences/TestMustNot'>
+    <error line='0' column='0' severity='error' message='Object field &apos;queryField1&apos; referencing &apos;IQueryField&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Search/Preferences/TestMustNot'>
+    <error line='0' column='0' severity='error' message='Object field &apos;queryField2&apos; referencing &apos;IQueryField&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Search/Synopsis/TestSynopsisWSS'>
+    <error line='0' column='0' severity='error' message='Object field &apos;alternateQuery&apos; referencing &apos;IAlternateQuery&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Search/Statics/TestStaticsContentCategory'>
+    <error line='0' column='0' severity='error' message='Object field &apos;queryField1&apos; referencing &apos;IQueryField&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Search/Statics/TestStaticsContentCategory'>
+    <error line='0' column='0' severity='error' message='Object field &apos;exactClauseValue&apos; referencing &apos;IObjectClauseValue&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Search/Statics/TestStaticsContentId'>
+    <error line='0' column='0' severity='error' message='Object field &apos;queryField1&apos; referencing &apos;IQueryField&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Search/Statics/TestStaticsContentId'>
+    <error line='0' column='0' severity='error' message='Object field &apos;exactClauseValue&apos; referencing &apos;IObjectClauseValue&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Search/Statics/TestStaticsIsFeatured'>
+    <error line='0' column='0' severity='error' message='Object field &apos;queryField1&apos; referencing &apos;IQueryField&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Search/Statics/TestStaticsIsFeatured'>
+    <error line='0' column='0' severity='error' message='Object field &apos;exactClauseValue&apos; referencing &apos;IObjectClauseValue&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Search/Statics/TestStaticsSharedText'>
+    <error line='0' column='0' severity='error' message='Object field &apos;queryField1&apos; referencing &apos;IQueryField&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Search/Statics/TestStaticsSharedText'>
+    <error line='0' column='0' severity='error' message='Object field &apos;exactClauseValue&apos; referencing &apos;IObjectClauseValue&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Search/Statics/TestStaticsTag'>
+    <error line='0' column='0' severity='error' message='Object field &apos;queryField1&apos; referencing &apos;IQueryField&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Search/Statics/TestStaticsTag'>
+    <error line='0' column='0' severity='error' message='Object field &apos;exactClauseValue&apos; referencing &apos;IObjectClauseValue&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Search/SimpleClause/TestMultiplePhrases'>
+    <error line='0' column='0' severity='error' message='Object field &apos;exactClauseValue&apos; referencing &apos;IObjectClauseValue&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Search/SimpleClause/TestPhrase'>
+    <error line='0' column='0' severity='error' message='Object field &apos;exactClauseValue&apos; referencing &apos;IObjectClauseValue&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Search/SimpleClause/SpellCheck'>
+    <error line='0' column='0' severity='error' message='Object field &apos;provider&apos; referencing &apos;RichSearchProvider&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Search/SimpleClause/TestSpellCheckPhrase'>
+    <error line='0' column='0' severity='error' message='Object field &apos;provider&apos; referencing &apos;RichSearchProvider&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Search/SimpleClause/TestMixedPhraseTerm'>
+    <error line='0' column='0' severity='error' message='Object field &apos;exactClauseValue&apos; referencing &apos;IObjectClauseValue&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Search/SimpleClause/TestSpellCheckMultipleTerms'>
+    <error line='0' column='0' severity='error' message='Object field &apos;provider&apos; referencing &apos;RichSearchProvider&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Search/SubsetClause/TestSubsetClauseIfExists'>
+    <error line='0' column='0' severity='error' message='Object field &apos;alternateQuery&apos; referencing &apos;IAlternateQuery&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Search/SearchControl/TestReturnFields'>
+    <error line='0' column='0' severity='error' message='Object field &apos;queryField1&apos; referencing &apos;IQueryField&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Search/SearchControl/TestReturnFields'>
+    <error line='0' column='0' severity='error' message='Object field &apos;exactClauseValue&apos; referencing &apos;IObjectClauseValue&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Search/SearchControl/TestBoost'>
+    <error line='0' column='0' severity='error' message='Object field &apos;queryField1&apos; referencing &apos;IQueryField&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Search/SearchControl/TestBoost'>
+    <error line='0' column='0' severity='error' message='Object field &apos;queryField2&apos; referencing &apos;IQueryField&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Search/SearchControl/TestMaxResults20'>
+    <error line='0' column='0' severity='error' message='Object field &apos;queryField1&apos; referencing &apos;IQueryField&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Search/SearchControl/TestMaxResults20'>
+    <error line='0' column='0' severity='error' message='Object field &apos;queryField2&apos; referencing &apos;IQueryField&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Search/SearchControl/TestSortAsc'>
+    <error line='0' column='0' severity='error' message='Object field &apos;queryField1&apos; referencing &apos;IQueryField&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Search/SearchControl/TestSortAsc'>
+    <error line='0' column='0' severity='error' message='Object field &apos;exactClauseValue&apos; referencing &apos;IObjectClauseValue&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Search/SearchControl/TestStartValue'>
+    <error line='0' column='0' severity='error' message='Object field &apos;queryField1&apos; referencing &apos;IQueryField&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Search/SearchControl/TestStartValue'>
+    <error line='0' column='0' severity='error' message='Object field &apos;queryField2&apos; referencing &apos;IQueryField&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Search/SearchControl/TestMaxResults'>
+    <error line='0' column='0' severity='error' message='Object field &apos;queryField1&apos; referencing &apos;IQueryField&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Search/SearchControl/TestMaxResults'>
+    <error line='0' column='0' severity='error' message='Object field &apos;queryField2&apos; referencing &apos;IQueryField&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Search/SearchControl/TestDebug'>
+    <error line='0' column='0' severity='error' message='Object field &apos;queryField1&apos; referencing &apos;IQueryField&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Search/SearchControl/TestDebug'>
+    <error line='0' column='0' severity='error' message='Object field &apos;queryField2&apos; referencing &apos;IQueryField&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Search/SearchControl/TestSortDesc'>
+    <error line='0' column='0' severity='error' message='Object field &apos;queryField1&apos; referencing &apos;IQueryField&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Search/SearchControl/TestSortDesc'>
+    <error line='0' column='0' severity='error' message='Object field &apos;exactClauseValue&apos; referencing &apos;IObjectClauseValue&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Search/BoundedClause/TestBoundedClauseNoEnd'>
+    <error line='0' column='0' severity='error' message='Object field &apos;queryField1&apos; referencing &apos;IQueryField&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Search/BoundedClause/TestBoundedClauseNoEnd'>
+    <error line='0' column='0' severity='error' message='Object field &apos;queryField2&apos; referencing &apos;IQueryField&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Search/BoundedClause/TestBoundedClauseNoEnd'>
+    <error line='0' column='0' severity='error' message='Object field &apos;queryFieldList&apos; referencing &apos;IQueryFieldList&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Search/BoundedClause/TestBoundedClauseMultipleDate'>
+    <error line='0' column='0' severity='error' message='Object field &apos;queryField1&apos; referencing &apos;IQueryField&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Search/BoundedClause/TestBoundedClauseMultipleDate'>
+    <error line='0' column='0' severity='error' message='Object field &apos;queryField2&apos; referencing &apos;IQueryField&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Search/BoundedClause/TestBoundedClauseMultipleDate'>
+    <error line='0' column='0' severity='error' message='Object field &apos;queryFieldList&apos; referencing &apos;IQueryFieldList&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Search/BoundedClause/TestBoundedClauseIfExists'>
+    <error line='0' column='0' severity='error' message='Object field &apos;queryField1&apos; referencing &apos;IQueryField&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Search/BoundedClause/TestBoundedClauseIfExists'>
+    <error line='0' column='0' severity='error' message='Object field &apos;queryField2&apos; referencing &apos;IQueryField&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Search/BoundedClause/TestBoundedClauseIfExists'>
+    <error line='0' column='0' severity='error' message='Object field &apos;queryFieldList&apos; referencing &apos;IQueryFieldList&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Search/BoundedClause/TestBoundedClauseNoBegin'>
+    <error line='0' column='0' severity='error' message='Object field &apos;queryField1&apos; referencing &apos;IQueryField&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Search/BoundedClause/TestBoundedClauseNoBegin'>
+    <error line='0' column='0' severity='error' message='Object field &apos;queryField2&apos; referencing &apos;IQueryField&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Search/BoundedClause/TestBoundedClauseNoBegin'>
+    <error line='0' column='0' severity='error' message='Object field &apos;queryFieldList&apos; referencing &apos;IQueryFieldList&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Search/BoundedClause/TestBoundedClause'>
+    <error line='0' column='0' severity='error' message='Object field &apos;clauseList&apos; referencing &apos;IClauseList&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Search/BoundedClause/TestBoundedClause'>
+    <error line='0' column='0' severity='error' message='Object field &apos;compoundClause&apos; referencing &apos;ICompoundClause&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Search/BoundedClause/TestBoundedClause'>
+    <error line='0' column='0' severity='error' message='Object field &apos;exactClauseValue1&apos; referencing &apos;IObjectClauseValue&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Search/BoundedClause/TestBoundedClause'>
+    <error line='0' column='0' severity='error' message='Object field &apos;exactClauseValue2&apos; referencing &apos;IObjectClauseValue&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Search/BoundedClause/TestBoundedClause'>
+    <error line='0' column='0' severity='error' message='Object field &apos;queryField1&apos; referencing &apos;IQueryField&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Search/BoundedClause/TestBoundedClause'>
+    <error line='0' column='0' severity='error' message='Object field &apos;queryField2&apos; referencing &apos;IQueryField&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='IntegrationTests/Search/BoundedClause/TestBoundedClause'>
+    <error line='0' column='0' severity='error' message='Object field &apos;queryFieldList&apos; referencing &apos;IQueryFieldList&apos; is invalid' source='Invalid Object Fields' />
+  </file>
+  <file name='AddSearchProviderBackedKnowledgeContext/Implementation/KnowledgeContext/SearchResultListComparator'>
+    <error line='0' column='0' severity='error' message='Implemented Interface Definition &apos;ISearchResultComparator&apos; is invalid' source='Invalid Implementations' />
+  </file>
+</checkstyle>
